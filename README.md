@@ -1,5 +1,5 @@
 # Flight Price Analytics
-##Introduction
+## Introduction
 People generally feel that booking of flight ticket should be done as earlier as possible to get the best deal. 
 But does booking flight tickets earlier always yield the cheapest price? Or is there a specific day of the week to book 
 a flight or to travel on that minimizes the price of the tickets? To answer these question we’ve setup a data pipeline to 

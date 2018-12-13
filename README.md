@@ -8,4 +8,9 @@ In our analysis, we derive insights about the trends in flight prices, the cheap
 compare our results with the study done by ‘Hopper.com’. Secondly, we create a vacation recommendation engine, by using flight
 data collected and combining it with points of interest data in those specific locations to inspire a person for the next travel.
 
+[Full report can be found here]()
+
+[The interactive dashboard created for travel recommendation can be found here] ()
+
+[The trend analysis of flight prices can be found here].()
 
